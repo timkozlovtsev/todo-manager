@@ -17,7 +17,7 @@ function ThemeToggler() {
                 cursor: 'pointer'
             }}
         >
-            переключить тему
+            Переключить тему
         </button>
     );
 }
